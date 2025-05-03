@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bot Terms of Service</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #2c2f33;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #23272a;
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 3px solid #7289da;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #7289da;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #36393f;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #00000060;
+        }
+
+        h2 {
+            color: #7289da;
+            margin-top: 2rem;
+        }
+
+        p, li {
+            line-height: 1.6;
+        }
+
+        ul {
+            margin-left: 1.5rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            color: #bbbbbb;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Atlas Community Sync Terms of Service</h1>
+    <p>Effective Date: 05/03/2025 • Last Updated: 05/03/2025</p>
+</header>
+
+<main>
+    <h2>1. Acceptable Use</h2>
+    <p>By inviting or using [Bot Name] ("the Bot"), you agree to use it for lawful purposes and in compliance with these Terms.</p>
+    <ul>
+        <li>You must not use the Bot to violate the <a href="https://discord.com/terms" target="_blank">Discord Terms of Service</a> or <a href="https://discord.com/guidelines" target="_blank">Community Guidelines</a>.</li>
+        <li>You may not use the Bot to engage in any illegal or unauthorized activities.</li>
+    </ul>
+
+    <h2>2. Usage Restrictions</h2>
+    <ul>
+        <li>The Bot is intended only for use in authorized or affiliated servers.</li>
+        <li><strong>You may not add the Bot to personal or private servers</strong> without explicit permission from its developers.</li>
+        <li>Reverse-engineering, redistribution, or replication of the Bot is strictly prohibited.</li>
+    </ul>
+
+    <h2>3. Data and Privacy</h2>
+    <p>The Bot may log user interactions (e.g., commands, error messages) to support moderation and improve functionality. No personally identifiable information is collected unless explicitly stated.</p>
+
+    <h2>4. Liability</h2>
+    <ul>
+        <li>The Bot is provided “as is” with no guarantees of performance, uptime, or security.</li>
+        <li>The developers are not liable for any misuse, damage, or losses resulting from its use.</li>
+        <li>Access to the Bot may be revoked at any time for any reason.</li>
+    </ul>
+
+    <h2>5. Changes to Terms</h2>
+    <p>These Terms may be updated at any time. Continued use of the Bot after updates constitutes your agreement to the revised terms.</p>
+
+    <p>If you do not agree to these Terms, do not use or interact with the Bot.</p>
+</main>
+
+<footer>
+    &copy; 2025 Atlas Community Sync • All Rights Reserved
+</footer>
+
+</body>
+</html>
